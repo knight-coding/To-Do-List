@@ -19,7 +19,7 @@ hr{
 }
 .task-box{
     border-radius: 20px;
-    width: 50%;
+    width: 40%;
     min-height: 80%;
     background-color: white;
     padding: 10px;
@@ -50,7 +50,8 @@ hr{
     background-color: lightgrey;
     padding: 10px;
     padding-left: 15px;
-    padding-right: 18%;
+    padding-right: 20%;
+    font-size: 1.5em;
 }
 .addition button{
     margin-left: -20%;
@@ -71,6 +72,7 @@ hr{
     }
     .addition input{
         width: 80%;
+         font-size: 1.2em;
     }
     .addition button{
         width: 30%;
